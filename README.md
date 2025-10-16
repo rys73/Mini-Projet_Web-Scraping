@@ -1,5 +1,9 @@
-# Web-Scraping Mini-Projet
+# (Mini-projet) Web Scraping Asynchrone - Projet Demoblaze
+Ce projet est un **scraper asynchrone avancé** développé avec **Python (Playwright)**, ce script est fait pour extraire automatiquement les informations de produits depuis le site [Demoblaze](https://demoblaze.com/).
 
-Ce mini-projet de **web scraping** a été réalisé avec **Playwright (version asynchrone)**. L'objectif était de montrer **la maître des sélecteurs dynamiques**, de la **pagination JavaScrip**t et de la **connexion automatisée (login)** sur un site e-commerce : **Demoblaze**.
-
-Le script extrait automatiquement les produits disponibles sur le site et sauvegarde leurs **noms, prix et images** dans un fichier **csv**.
+## Objectif du projet est de montrer;
+- La **maîtrise du scrapping JavaScript dynamique**.
+- L'utilisation de **Playwright en mode asynchrone ('async/await')**.
+- L'utilisation complète d'un **login sécurisé** avant le scrapping.
+- Une **gestion intelligente de la pagination** sans fixer la limite de pages.
+- L'exportation des résultats dans un **fichier CSV propre et réutilisable**.
